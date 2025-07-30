@@ -1,5 +1,5 @@
 # 使用轻量级JRE镜像
-anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/openjdk
+FROM anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/openjdk
 
 LABEL maintainer="zhizhan.zhou@biqs.cn"
 
