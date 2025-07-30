@@ -1,5 +1,5 @@
 # 使用轻量级JRE镜像
-FROM registry.cn-hangzhou.aliyuncs.com/ubuntu/openjdk:11
+anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/openjdk
 
 LABEL maintainer="zhizhan.zhou@biqs.cn"
 
