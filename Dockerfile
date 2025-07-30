@@ -1,5 +1,5 @@
 # 使用轻量级JRE镜像
-FROM openjdk:11-jre-slim
+FROM registry.cn-hangzhou.aliyuncs.com/acs/openjdk:11-jre-slim
 
 LABEL maintainer="zhizhan.zhou@biqs.cn"
 
