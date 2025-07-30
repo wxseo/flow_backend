@@ -1,5 +1,5 @@
 # 使用轻量级JRE镜像
-FROM anolis-registry.cn-zhangjiakou.cr.aliyuncs.com/openanolis/openjdk
+FROM eclipse-temurin:11-jre
 
 LABEL maintainer="zhizhan.zhou@biqs.cn"
 
