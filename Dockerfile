@@ -1,5 +1,6 @@
 # 使用轻量级JRE镜像
-FROM eclipse-temurin:11-jre
+# FROM eclipse-temurin:11-jre
+FROM openjdk:11-jre-slim
 
 LABEL maintainer="zhizhan.zhou@biqs.cn"
 
